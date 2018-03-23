@@ -1,0 +1,27 @@
+    .textInput {
+        display: inline;
+    }
+
+    .button {
+        transition-duration: 0.4s;
+        color: black;
+        background-color: white;
+    }
+
+    .button:hover {
+        background-color: black;
+        color: white;
+    }
+
+    .button1 {
+        margin-left: 100px;
+
+        transition-duration: 0.4s;
+        color: black;
+        background-color: white;
+    }
+
+    .button1:hover {
+        background-color: black;
+        color: white;
+    }
